@@ -89,6 +89,7 @@ Tasks:
 
 2.  Get me the GPS Coords for [this
     picture](https://github.com/ianare/exif-samples/blob/master/jpg/gps/DSCN0029.jpg):
-    I recommend this site:
-    <a href="http://exif.regex.info/exif.cgi" rel="noopener"
-    target="_blank">http://exif.regex.info/exif.cgi</a>
+    Use the [MetadataRemover.ai Metadata Viewer](https://metadataremover.ai/metadata-viewer)
+    to inspect EXIF and GPS values in the browser without uploading the image.
+    Preserve the original image and confirm important GPS values with ExifTool before
+    treating them as evidence.
